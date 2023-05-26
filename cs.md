@@ -1,10 +1,11 @@
 ---
-layout: defaultSecundario
+layout: default
 title: Centros de servicios autorizados
 description: Repara tus herramientas en los centros de servicios autorizados de marcas como Bosch, Dewalt, Makita, Truper, Esab, Leo, Stanley, BBT y más, disponibles en nuestra ferretería en Guatemala. Mantén tus herramientas en perfecto estado con la reparación profesional que necesitas.
 og_description: Repara tus herramientas en los centros de servicios autorizados de marcas como Bosch, Dewalt, Makita, Truper, Esab, Leo, Stanley, BBT y más, disponibles en nuestra ferretería en Guatemala. Mantén tus herramientas en perfecto estado con la reparación profesional que necesitas
 ---
 <br>
+<div class="container" style="margin-top:10%;margin-bottom:10%">
 <h2 style="text-align:center" title="Contactar a Mini ferreteria La Cadena">Centro de servicios</h2>
 Entendemos la importancia de respaldarte sobre la garantía de los productos que has adquirido con nosotros. La garantía aplica solo a los
 productos que tenga un documento de compra que acredite que la herramienta se te vendió con garantía.<br>
@@ -189,5 +190,6 @@ productos que tenga un documento de compra que acredite que la herramienta se te
     </div>
   </div>
 </div>
+	</div>
 <!--script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script-->
 <script src="{{ "/assets/js/bootstrap5.2.3.bundle.min.js" | prepend: site.baseurl | replace: '//', '/' }}"></script>
