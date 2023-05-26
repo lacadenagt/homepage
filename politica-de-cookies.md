@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: defaultSecundario
 title: Política de cookies
 description: Política de cookies de Ferretería La Cadena
 og_description: Política de cookies de Ferretería La Cadena

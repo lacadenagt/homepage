@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: defaultSecundario
 title: Política de privacidad
 description: Política de privacidad de Ferretería La Cadena
 og_description: Política de privacidad de Ferretería La Cadena

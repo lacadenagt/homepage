@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: defaultSecundario
 title: Centros de servicios autorizados
 description: Repara tus herramientas en los centros de servicios autorizados de marcas como Bosch, Dewalt, Makita, Truper, Esab, Leo, Stanley, BBT y más, disponibles en nuestra ferretería en Guatemala. Mantén tus herramientas en perfecto estado con la reparación profesional que necesitas.
 og_description: Repara tus herramientas en los centros de servicios autorizados de marcas como Bosch, Dewalt, Makita, Truper, Esab, Leo, Stanley, BBT y más, disponibles en nuestra ferretería en Guatemala. Mantén tus herramientas en perfecto estado con la reparación profesional que necesitas
