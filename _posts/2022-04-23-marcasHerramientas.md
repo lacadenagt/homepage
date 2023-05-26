@@ -3,6 +3,7 @@ title: "Las mejores marcas de herramientas eléctricas"
 layout: post
 permalink: /consejosComprarHerramientasElectricas
 ---
+<div class="container" style="margin-top:10%;margin-bottom:10%">
 Todas las personas cuando quieren realizar una compra de algún producto eléctrico algunas veces no tienen idea de **¿Cuál es la mejor opción o herramienta para comprar?**
 Es posible que el trabajo que necesitas realizar es distinto al de otra persona. Posiblemente lo quieras utilizar para trabajos caseros y alguien más para uso industrial.
 Te vamos ayudar a elegir la mejor opción para ti.
@@ -54,3 +55,4 @@ Te sugerimos las siguientes marcas solamente para los usos que te mencionamos.
 - **Milwaukee:** para trabajos industriales.
 
 - **Makita:** para usos profesionales y industriales.
+</div>
